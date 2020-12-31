@@ -2,5 +2,4 @@
 
 
 ## Basic HTML codes 
-
-###Food Recepie
+Food Recepie
