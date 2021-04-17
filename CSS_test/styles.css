@@ -1,0 +1,66 @@
+body{
+    background-color : black ;
+    color : white
+  }
+  li{
+    font-size : 25px ;
+    padding :5px
+    
+  }
+  h3{
+    font-size : 20px
+  }
+  h1{
+    font-size : 50px ;
+    text-decoration : underline ;
+    font-weight :1000 ;
+  }
+  img{
+    padding :30px;
+    margin-left: auto;
+    margin-right: auto ;
+    margin-top: 25px;
+    margin-bottom: 25px;
+  }
+
+  .padded{
+    padding :100px ;
+    list-style-type: upper-roman;
+  }
+
+  .italic{
+    font-family: italic;
+    color : skyblue;
+    list-style-type: square; 
+  }
+
+section{
+  text-align: center;
+  padding-left: auto;
+  padding-right: auto;
+}
+
+section h3 {
+  padding-left: 250px;
+  padding-right: 250px;
+}
+
+main {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+span {
+  color: lightgreen;
+}
+
+
+.too span {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-decoration :underline ;
+}
+
+.special h2 span {
+  font-family: 'Times New Roman', Times, serif;
+  color:red
+}
