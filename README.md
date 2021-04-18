@@ -2,4 +2,4 @@
 
 
 ## Basic HTML codes 
-Food Recepie
+scratch codes for html.... apple frontend scratch
